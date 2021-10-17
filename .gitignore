@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 
-l9/training_checkpoints/*
+*/training_checkpoints/*
+l10/training_nmt_checkpoints/*
